@@ -82,17 +82,6 @@ Users can also modify the List.xml file to add or remove custom wallpapers.
 4. Browse the available background images.
 5. Select your preferred wallpaper and save your changes.
 
-### Cisco 7900 Series
-
-For compatible Cisco 7900 Series phones:
-
-1. Press the Settings button.
-2. Select User Preferences.
-3. Select Background Images.
-4. Browse the available backgrounds.
-5. Select your preferred background.
-6. Press Save.
-
 ## ⚠️ Compatibility Notes
 
 - Not all Cisco IP Phones support custom wallpapers.
