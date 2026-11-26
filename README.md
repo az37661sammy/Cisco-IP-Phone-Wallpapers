@@ -63,14 +63,6 @@ Users can also modify the List.xml file to add or remove custom wallpapers.
 6. Ensure that List.xml, wallpaper images, and thumbnail images are included.
 7. Restart your Cisco IP Phone if necessary.
 
-### Cisco Unified Communications Manager (CUCM)
-
-1. Log in to Cisco Unified OS Administration.
-2. Navigate to Software Upgrades > TFTP File Management.
-3. Upload the wallpaper images, thumbnails, and List.xml file to the appropriate Desktops directory.
-4. Restart the Cisco TFTP service if required.
-5. Restart your Cisco IP Phone if necessary.
-
 ## 🖼️ How to Change Your Wallpaper
 
 ### Cisco 8800 Series Enterprise
